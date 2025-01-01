@@ -8,4 +8,4 @@ RUN git clone https://github.com/alkarakully/devops.git
 
 WORKDIR /devops
 
-CMD [ "python3", "master.py" ]
+CMD [ "python3", "main.py" ]
